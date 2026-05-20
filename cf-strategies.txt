@@ -1,0 +1,66 @@
+Got it — target: volatco.github.io. I’ll adapt the influencer outreach templates and 7‑post social calendar for a developer/OSS audience around a GitHub Pages project (Volatco).
+
+Influencer outreach sequence — developer/OSS tone (6 messages; personalize each)
+1) Initial pitch (subject: Early look at Volatco — OSS tool for [one-line benefit])
+Hi [Name], I’m [Your name] — maintainer of Volatco (volatco.github.io). It’s an open tool that [one-line USP: e.g., simplifies cross-platform GPU benchmarking and modular dev workflows]. Would you be open to an early demo + repo access for a walkthrough or short review? I can provide test data, usage guide, and a demo build. —[Name, GitHub link]
+
+2) Follow-up (3–5 days)
+Hi [Name], quick follow-up — happy to run a demo session or give a dedicated test repo. We’re shipping access this week; any interest in trying Volatco?
+
+3) Asset/value add (4–7 days later)
+Hi [Name], attaching a 2‑3 minute demo clip, benchmark gist, and a short README excerpt showing install and quickstart. We can create a sandbox repo or demo VM tailored to your tests. Would a test instance help?
+
+4) Commitment/logistics (after interest)
+Great — thanks! Which format do you prefer: live demo, prerecorded walkthrough, or test repo? I can provide sample datasets, CI logs, and a short interview with the lead dev for context. Preferred publish window?
+
+5) Pre‑publish coordination (2–3 days before)
+Thanks — here’s the demo link, high‑res screenshots, and a short changelog. If you want a quick pairing session to run benchmarks or reproduce results, I’m available [dates/times]. Repo: https://volatco.github.io (or GitHub: [repo link]).
+
+6) Post‑publish & nurture
+Appreciate the coverage — sharing across our channels and amplifying your post. Would you be interested in a guest post or co‑hosted livestream diving into internals? Also open to feedback/PRs from your community.
+
+7‑post social calendar — OSS/dev-focused (spread over ~30 days)
+
+Post 1 — Project hero + demo
+- Platform: Twitter/X, LinkedIn, Mastodon
+- Content: 90–120s demo GIF/video showing core workflow (install → run → output). Link to volatco.github.io and quickstart.
+
+Post 2 — Quickstart snippet + code block
+- Platform: Twitter/X, LinkedIn
+- Content: 3–5 line code example (install + run) with brief explanation and link to detailed docs.
+
+Post 3 — Behind-the-design / roadmap
+- Platform: GitHub discussion, LinkedIn, Twitter/X
+- Content: short post about design choices, trade-offs, and upcoming roadmap; solicit feedback and contributors.
+
+Post 4 — Technical deep-dive / benchmark results
+- Platform: Dev blog (GitHub Pages), Hacker News, r/programming
+- Content: post showing reproducible benchmarks, methodology, and CSV/graphs; include a link to runnable scripts.
+
+Post 5 — Contributor highlight / how to contribute
+- Platform: GitHub, Twitter/X
+- Content: spotlight an early contributor, show a simple “good first issue” and invite PRs.
+
+Post 6 — Short tutorial video
+- Platform: YouTube (short) + Twitter/X thread
+- Content: 60–90s tutorial: setup, run, interpret results; include links to demo repo.
+
+Post 7 — Launch / release announcement + call for testers
+- Platform: All channels + GitHub release notes
+- Content: release v1.x, list features/fixes, invite users to try demo, open issues, and join Discord/Gitter.
+
+Distribution & growth tactics tuned for Volatco
+- Cross-post long-form technical content to Dev.to, Medium (mirror), and Hacker News with an attention-grabbing title.  
+- Submit to relevant subreddits (r/opensource, r/programming, r/hardware if applicable) with a value-first post.  
+- Share reproducible notebooks and CI demos so reviewers can run tests locally—reduces friction.  
+- Offer a live demo VM or GitHub Codespace to let reviewers/testers run instantly.  
+- Encourage forks/examples: create a “showcase” repo for user contributions.  
+- Partner with niche newsletter curators (e.g., Linux, GPU, or hardware newsletters) with a concise pitch and demo GIF.  
+- Host a short livestream/code walkthrough and clip highlights into shorts.
+
+Tracking & community
+- Use UTM tags for links; track referral spikes from posts/reviews.  
+- Open a Discussions page on GitHub and pin a “Getting started” thread.  
+- Provide clear contributor docs and label “help wanted” and “good first issue”.
+
+Would you like: (A) ready-to-send email templates with subject lines for Volatco outreach, or (B) a 7‑post calendar with exact copy and suggested posting dates?

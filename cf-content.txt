@@ -1,0 +1,45 @@
+Use a diversified, organic content strategy focused on value and targeted distribution. Short checklist of high-impact tactics:
+
+Content types to create
+- Explainer/demo video (90–180s): product benefits, real-world use, clear CTA.  
+- Short-form clips (15–60s): feature highlights, unboxing, micro-demos for TikTok/Reels/YouTube Shorts.  
+- Deep-dive tech video/article: specs, benchmarks, teardown for technical audiences.  
+- Quick how-to/FAQ clips/posts: solves common setup or troubleshooting pain points.  
+- Press kit: one-sheet, hi-res images, B-roll, specs, and reviewer contact info.
+
+Organic distribution channels & tactics
+- YouTube: publish explainer + demo; optimize title/description with keywords; pin chapters and CTAs.  
+- LinkedIn: post technical deep-dives, engineering story, and B2B use-cases (tag partners).  
+- Twitter/X and Mastodon: share development updates, short clips, and engage dev/tech communities.  
+- TikTok & Instagram Reels: repurpose short-form clips + behind-the-scenes to drive discovery.  
+- Reddit & specialized forums: engage in relevant subs (r/hardware, r/tech, product-specific communities) with non-promotional value posts and AMAs.  
+- Hacker News / Product Hunt: time a launch/update post for visibility among early adopters.
+
+Influencer & reviewer strategy (non-spammy)
+- Micro-reviewer outreach: target 10–25 niche creators (5k–100k followers) with personalized pitches and early units/pilot access.  
+- Offer structured review briefs: testing checklist, key angles, and suggested timelines.  
+- Provide affiliate or limited-time discount codes to track performance.  
+- Prioritize credibility: tech reviewers, system integrators, and well-regarded bloggers over mass outreach.
+
+Growth & engagement tactics
+- Community-first: start a Discord or Slack for backers and early adopters; host weekly AMAs and collect feedback.  
+- Referral incentives: give early backers unique referral links that unlock perks or upgrades.  
+- Content partnerships: co-create tutorials or bundle promos with complementary products/services.  
+- Repurpose: turn one long video into 6–8 short clips, 3 blog posts, and 10 social cards.  
+- Email (selective, not spam): send targeted, high-value updates to engaged subscribers only (segmented by interest/engagement).
+
+Paid amplification (efficient, low-spam)
+- Retargeting: serve short clips to people who watched your explainer or visited product pages.  
+- Creator partnerships: pay a small set of trusted creators for dedicated content rather than mass blasts.  
+- Native ads on tech sites and Reddit promoted posts targeted by interest.
+
+Metrics to track (weekly)
+- Watch-through rate, click-through rate, landing-page conversion, cost-per-acquisition (for paid), referral signups, and reviewer traffic spikes.
+
+Quick rollout (first 6 weeks)
+1. Week 1: Publish long explainer + launch YouTube + niche forum posts.  
+2. Weeks 2–3: Push 8–12 short clips across TikTok/Reels; outreach to 10 micro-reviewers.  
+3. Weeks 4–5: Run small retargeting ad to viewers; host Discord AMA.  
+4. Week 6: Publish deep-dive article and coordinate 3–5 reviewer publish dates.
+
+If you want, I can draft a 6‑message influencer outreach template and a 7‑post social calendar tailored to your product. Which would you prefer?
