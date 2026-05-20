@@ -97,6 +97,17 @@
   <line x1="266" y1="594" x2="1722" y2="594" class="fold"/>
 
   <!-- Dimension callouts -->
+  <!-- Overall print area (entire dieline footprint): 194 x 98 mm -->
+  <line x1="170" y1="870" x2="1722" y2="870" stroke="#0f172a" stroke-width="1.6"/>
+  <line x1="170" y1="860" x2="170" y2="880" stroke="#0f172a" stroke-width="1.6"/>
+  <line x1="1722" y1="860" x2="1722" y2="880" stroke="#0f172a" stroke-width="1.6"/>
+  <text x="946" y="900" text-anchor="middle" class="callout">194 mm overall print area width</text>
+
+  <line x1="120" y1="10" x2="120" y2="794" stroke="#0f172a" stroke-width="1.6"/>
+  <line x1="110" y1="10" x2="130" y2="10" stroke="#0f172a" stroke-width="1.6"/>
+  <line x1="110" y1="794" x2="130" y2="794" stroke="#0f172a" stroke-width="1.6"/>
+  <text x="94" y="402" class="callout" transform="rotate(-90 94 402)">98 mm overall print area height</text>
+
   <line x1="450" y1="840" x2="994" y2="840" stroke="#0f172a" stroke-width="1.4"/>
   <line x1="450" y1="830" x2="450" y2="850" stroke="#0f172a" stroke-width="1.4"/>
   <line x1="994" y1="830" x2="994" y2="850" stroke="#0f172a" stroke-width="1.4"/>
@@ -116,4 +127,5 @@
   <text x="170" y="1068" class="small">Compensation: 3 mm anti-static bubble wrap each side => wrapped board 66 x 46 x 21 mm.</text>
   <text x="170" y="1096" class="small">Carton internal size used: 68 x 48 x 23 mm (adds 2 mm insertion clearance per axis).</text>
   <text x="170" y="1124" class="small">Dieline type: reverse tuck top + friction bottom with glue tab.</text>
+  <text x="170" y="1152" class="small">Overall print area of this dieline: 194 x 98 mm.</text>
 </svg>
