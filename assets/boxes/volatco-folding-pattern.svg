@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Volatco Folding Carton Dieline</title>
+  <desc id="desc">Folding carton pattern for a Volatco board using dimensions 6 cm x 4 cm x 1.5 cm, compensated for 3 mm anti-static bubble wrap and branding-first panel arrangement.</desc>
+
+  <defs>
+    <style>
+      .cut { fill: none; stroke: #0f172a; stroke-width: 2.2; }
+      .fold { fill: none; stroke: #64748b; stroke-width: 1.4; stroke-dasharray: 9 7; }
+      .safe { fill: none; stroke: #cbd5e1; stroke-width: 1; stroke-dasharray: 4 6; }
+      .ink-front { fill: #0da170; }
+      .ink-side { fill: #1a1a1a; }
+      .ink-top { fill: #101010; }
+      .ink-back { fill: #edf4f1; }
+      .ink-bottom { fill: #101010; }
+      .ink-glue { fill: #dbe7e2; }
+      .label { font: 20px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 16px Arial, sans-serif; fill: #334155; }
+      .brand { font: 700 46px Arial, sans-serif; fill: #ffffff; letter-spacing: 2px; }
+      .model { font: 700 34px Arial, sans-serif; fill: #ffffff; }
+      .callout { font: 700 18px Arial, sans-serif; fill: #0f172a; }
+    </style>
+  </defs>
+
+  <!--
+    Scale: 1 mm = 8 px
+    Board (from docs): 60 x 40 x 15 mm
+    Bubble wrap compensation: +3 mm per side => +6 mm each axis
+    Wrapped board: 66 x 46 x 21 mm
+    Carton internal target: +2 mm insertion clearance each axis => 68 x 48 x 23 mm
+
+    Panel sizes:
+      Front/Back: 68 x 48 mm
+      Side: 23 x 48 mm
+      Top/Bottom closing flaps depth: 25 mm
+      Glue flap: 12 mm
+  -->
+
+  <rect width="1800" height="1200" fill="#f8fafc"/>
+
+  <!-- Main strip origin -->
+  <!-- x0=170, y0=210 -->
+  <!-- widths px: glue 96, side 184, front 544, side 184, back 544 -->
+  <!-- height px: panel 384 -->
+
+  <!-- Print fills -->
+  <rect x="266" y="210" width="184" height="384" class="ink-side"/>
+  <rect x="450" y="210" width="544" height="384" class="ink-front"/>
+  <rect x="994" y="210" width="184" height="384" class="ink-side"/>
+  <rect x="1178" y="210" width="544" height="384" class="ink-back"/>
+  <rect x="170" y="210" width="96" height="384" class="ink-glue"/>
+
+  <!-- Top flaps -->
+  <rect x="266" y="10" width="184" height="200" class="ink-top"/>
+  <rect x="450" y="10" width="544" height="200" class="ink-top"/>
+  <rect x="994" y="10" width="184" height="200" class="ink-top"/>
+  <rect x="1178" y="10" width="544" height="200" class="ink-top"/>
+
+  <!-- Bottom flaps -->
+  <rect x="266" y="594" width="184" height="200" class="ink-bottom"/>
+  <rect x="450" y="594" width="544" height="200" class="ink-bottom"/>
+  <rect x="994" y="594" width="184" height="200" class="ink-bottom"/>
+  <rect x="1178" y="594" width="544" height="200" class="ink-bottom"/>
+
+  <!-- Brand artwork (most visible: front + top) -->
+  <image href="./cartheur-logo.jpg" x="470" y="26" width="64" height="64"/>
+  <image href="./cartheur-logo.jpg" x="470" y="236" width="72" height="72"/>
+  <text x="722" y="382" text-anchor="middle" class="brand">VOLATCO</text>
+  <text x="722" y="434" text-anchor="middle" class="model">VOL00 / VOL01 / VOLxx</text>
+  <text x="722" y="108" text-anchor="middle" class="brand">VOLATCO</text>
+  <text x="722" y="152" text-anchor="middle" class="small" style="fill:#0da170; font-size:22px;">Powerful Multicompute</text>
+
+  <!-- Side marks for shelf visibility -->
+  <text x="358" y="402" transform="rotate(-90 358 402)" text-anchor="middle" class="small" style="fill:#0da170; font-size:22px;">VOLATCO</text>
+  <text x="1086" y="402" transform="rotate(90 1086 402)" text-anchor="middle" class="small" style="fill:#0da170; font-size:22px;">VOLATCO</text>
+
+  <!-- Back panel support copy -->
+  <text x="1218" y="305" class="label">Compact multicomputer board</text>
+  <text x="1218" y="340" class="small">Dual GA144A12 mesh processors</text>
+  <text x="1218" y="367" class="small">2 MB SRAM + 32 MB SPI flash</text>
+  <text x="1218" y="394" class="small">Low-power asynchronous architecture</text>
+
+  <!-- Safe zones -->
+  <rect x="470" y="230" width="504" height="344" class="safe"/>
+  <rect x="1198" y="230" width="504" height="344" class="safe"/>
+
+  <!-- Cut lines: outer contour -->
+  <path class="cut" d="M170,210 L170,594 L266,594 L266,794 L1722,794 L1722,594 L1722,210 L1722,10 L266,10 L266,210 Z"/>
+
+  <!-- Internal fold lines vertical -->
+  <line x1="266" y1="10" x2="266" y2="794" class="fold"/>
+  <line x1="450" y1="10" x2="450" y2="794" class="fold"/>
+  <line x1="994" y1="10" x2="994" y2="794" class="fold"/>
+  <line x1="1178" y1="10" x2="1178" y2="794" class="fold"/>
+
+  <!-- Internal fold lines horizontal -->
+  <line x1="266" y1="210" x2="1722" y2="210" class="fold"/>
+  <line x1="266" y1="594" x2="1722" y2="594" class="fold"/>
+
+  <!-- Dimension callouts -->
+  <line x1="450" y1="840" x2="994" y2="840" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="450" y1="830" x2="450" y2="850" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="994" y1="830" x2="994" y2="850" stroke="#0f172a" stroke-width="1.4"/>
+  <text x="722" y="870" text-anchor="middle" class="callout">68 mm (box length)</text>
+
+  <line x1="1752" y1="210" x2="1752" y2="594" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="1742" y1="210" x2="1762" y2="210" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="1742" y1="594" x2="1762" y2="594" stroke="#0f172a" stroke-width="1.4"/>
+  <text x="1772" y="402" class="callout" transform="rotate(90 1772 402)">48 mm (box width)</text>
+
+  <line x1="266" y1="930" x2="450" y2="930" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="266" y1="920" x2="266" y2="940" stroke="#0f172a" stroke-width="1.4"/>
+  <line x1="450" y1="920" x2="450" y2="940" stroke="#0f172a" stroke-width="1.4"/>
+  <text x="358" y="960" text-anchor="middle" class="callout">23 mm (box depth)</text>
+
+  <text x="170" y="1040" class="label">Volatco board from docs: 60 x 40 x 15 mm</text>
+  <text x="170" y="1068" class="small">Compensation: 3 mm anti-static bubble wrap each side => wrapped board 66 x 46 x 21 mm.</text>
+  <text x="170" y="1096" class="small">Carton internal size used: 68 x 48 x 23 mm (adds 2 mm insertion clearance per axis).</text>
+  <text x="170" y="1124" class="small">Dieline type: reverse tuck top + friction bottom with glue tab.</text>
+</svg>

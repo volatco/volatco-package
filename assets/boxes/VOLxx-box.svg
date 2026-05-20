@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">VOLxx Board Box</title>
+  <desc id="desc">Packaging mockup for the Volatco VOLxx board.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#edf4f1"/>
+      <stop offset="100%" stop-color="#dbe7e2"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#101010"/>
+      <stop offset="100%" stop-color="#20f8a8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="110" y="120" width="980" height="560" rx="28" fill="#ffffff" stroke="#b6c8c1" stroke-width="4"/>
+
+  <rect x="110" y="120" width="980" height="120" rx="28" fill="url(#stripe)"/>
+  <rect x="110" y="212" width="980" height="28" fill="#ffffff" opacity="0.14"/>
+  <image href="./cartheur-logo.jpg" x="128" y="136" width="68" height="68"/>
+
+  <text x="170" y="198" font-family="'Arial Black', Arial, sans-serif" font-size="68" fill="#ffffff">VOLATCO</text>
+  <text x="1030" y="198" text-anchor="end" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">VOLxx</text>
+
+  <text x="170" y="330" font-family="Arial, sans-serif" font-size="34" fill="#10231b">General-purpose board</text>
+  <text x="170" y="380" font-family="Arial, sans-serif" font-size="28" fill="#1d3a2e">Designed for prototyping, integration, and field validation.</text>
+
+  <rect x="170" y="450" width="860" height="170" rx="16" fill="#f3faf7" stroke="#c6d8d1"/>
+  <text x="210" y="505" font-family="Arial, sans-serif" font-size="28" fill="#101010">Included</text>
+  <text x="210" y="550" font-family="Arial, sans-serif" font-size="24" fill="#1d3a2e">• VOLxx board</text>
+  <text x="210" y="585" font-family="Arial, sans-serif" font-size="24" fill="#1d3a2e">• Quick start guide</text>
+
+  <rect x="850" y="505" width="180" height="80" rx="12" fill="#101010"/>
+  <text x="940" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#20f8a8">NEW</text>
+</svg>
