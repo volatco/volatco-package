@@ -29,5 +29,6 @@ This repository contains Volatco packaging design assets and production-oriented
 - Board baseline: `60 x 40 x 15 mm`
 - Protection allowance: `3 mm` anti-static bubble wrap per side
 - Internal box target: `68 x 48 x 23 mm`
+- General dieline print area: `194 x 98 mm`
 - Recommended board stock: `SBS C1S`, `0.50 mm`, `350-400 gsm`
 - Brand palette baseline: `#101010` and `#20F8A8` (with darker green usage where specified)

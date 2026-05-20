@@ -8,6 +8,12 @@ Packaging dieline generated in:
 
 - `volatco-folding-pattern.svg`
 
+General dieline print area:
+
+- Overall artwork footprint: **194 x 98 mm**
+- Width: **194 mm**
+- Height: **98 mm**
+
 Palette standard (Cartheur logo aligned):
 
 - Primary dark: **#101010**

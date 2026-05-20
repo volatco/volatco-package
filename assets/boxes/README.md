@@ -27,6 +27,7 @@ The actual Cartheur logo is rendered on the SVG assets via `cartheur-logo.jpg`.
 - Wrapped board envelope: **66 x 46 x 21 mm**
 - Assembly clearance allowance: **+2 mm each axis**
 - Final internal box size target: **68 x 48 x 23 mm**
+- General folding-pattern print area: **194 x 98 mm**
 
 ### Box style and panel construction
 
