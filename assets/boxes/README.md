@@ -6,6 +6,20 @@
 2. Print first: `rigid-wrap-templates/rigid-wrap-template-1.5mm.svg` on A4 at **100% scale** (disable fit-to-page).
 3. Build first: use the **1.5 mm greyboard cut list** in the "Rigid box prototype for Canon TS3350 workflow" section.
 
+## Current status
+
+- Date logged: **May 22, 2026**
+- Prototype stage: ordering/prep complete.
+- Ordered/planned materials:
+  - Canon cartridges: **PG-545XL** + **CL-546XL**
+  - Paper: **50 sheets** photo/matte stock (target **170 gsm**)
+  - Greyboard: **25 sheets**, **1.5 mm**, approximately **925 gsm**
+  - Cutting mat: **A3 self-healing mat**
+  - Knives: **X-Acto knife set**
+  - Blades: **replacement blades pack**
+  - Measuring/cutting guide: **steel ruler**
+- Next collaboration checkpoint: **May 27, 2026** (when items are expected to be received) to run first physical sample assembly and fit validation.
+
 ## Files
 
 - VOLxx mockup: `VOLxx-box.svg`
