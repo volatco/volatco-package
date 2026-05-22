@@ -42,3 +42,5 @@ This repository contains Volatco packaging design assets and production-oriented
 - Materials are ordered; first physical assembly and fit-validation session is scheduled for **May 27, 2026**.
 
 See `assets/boxes/README.md` for the detailed cut lists, wrap templates, and first-build checklist.
+
+Could do a next-stage refinement with [these](https://renobal.cz/en/) guys.
