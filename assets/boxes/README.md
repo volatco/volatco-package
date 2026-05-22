@@ -2,18 +2,18 @@
 
 ## Quick start
 
-1. Buy: `PG-545XL` + `CL-546XL`, A4 coated matte inkjet paper (**120-160 gsm**, start at **135 gsm**), and **1.5 mm** greyboard.
+1. Buy/order: `PG-545XL` + `CL-546XL`, A4 photo/matte stock (**170 gsm**), and **1.5 mm** greyboard.
 2. Print first: `rigid-wrap-templates/rigid-wrap-template-1.5mm.svg` on A4 at **100% scale** (disable fit-to-page).
 3. Build first: use the **1.5 mm greyboard cut list** in the "Rigid box prototype for Canon TS3350 workflow" section.
 
 ## Current status
 
 - Date logged: **May 22, 2026**
-- Prototype stage: ordering/prep complete.
-- Ordered/planned materials:
+- Prototype stage: ordering complete.
+- Ordered materials:
   - Canon cartridges: **PG-545XL** + **CL-546XL**
-  - Paper: **50 sheets** photo/matte stock (target **170 gsm**)
-  - Greyboard: **25 sheets**, **1.5 mm**, approximately **925 gsm**
+  - Paper: **50 sheets** photo/matte stock **170 gsm**
+  - Greyboard: **25 sheets**, **1.5 mm**, **925 gsm**
   - Cutting mat: **A3 self-healing mat**
   - Knives: **X-Acto knife set**
   - Blades: **replacement blades pack**
@@ -193,11 +193,10 @@ Use this as the default first-order list before committing to larger print or pa
 ### Shopping list
 
 - Ink cartridges (TS3350 EU/UK family): **PG-545XL** (black) + **CL-546XL** (color)
-- Wrap print paper (A4): **coated matte inkjet paper, 120-160 gsm** (start with **135 gsm**)
-- Optional alternate wrap paper: **Canon MP-101 matte photo paper (170 gsm)** for stiffer wraps
-- Greyboard: start with **1.5 mm**; optional small pack of **1.0 mm** for comparison
+- Wrap print paper (A4): **photo/matte stock, 170 gsm** (**ordered**)
+- Greyboard: **1.5 mm, 25 sheets, ~925 gsm** (**ordered**)
 - Adhesive: **PVA/bookbinder glue**
-- Tools: metal ruler, sharp knife, cutting mat, bone folder (or blunt creasing tool), clips/masking tape
+- Tools: **A3 self-healing cutting mat**, **X-Acto knife set**, **replacement blades**, **steel ruler**, bone folder (or blunt creasing tool), clips/masking tape
 
 ### Recommended first sample
 
