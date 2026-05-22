@@ -33,7 +33,7 @@ This repository contains Volatco packaging design assets and production-oriented
 - Recommended board stock: `SBS C1S`, `0.50 mm`, `350-400 gsm`
 - Brand palette baseline: `#101010` and `#20F8A8` (with darker green usage where specified)
 
-## Current prototype execution status (May 22, 2026)
+## Current prototype execution status for testing on Canon TS3350 Pixma
 
 - Ink cartridges: `PG-545XL` + `CL-546XL`
 - Paper: A4 photo/matte stock, `170 gsm`, `50 sheets`
