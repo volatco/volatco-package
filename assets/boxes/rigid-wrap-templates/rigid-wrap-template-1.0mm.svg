@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <title>Rigid Box Wrap Template - 1.0mm Greyboard</title>
+  <desc>A4 print template with bleed, trim, and turn-in guides for base and lid wraps.</desc>
+  <style>
+    .page { fill: #ffffff; }
+    .bleed { fill: none; stroke: #ef4444; stroke-width: 0.25; }
+    .trim { fill: none; stroke: #111827; stroke-width: 0.25; }
+    .fold { fill: none; stroke: #2563eb; stroke-width: 0.2; stroke-dasharray: 1.5 1.5; }
+    .panel { fill: none; stroke: #16a34a; stroke-width: 0.25; }
+    .txt { fill: #111827; font-family: Arial, sans-serif; font-size: 3.2px; }
+    .small { fill: #374151; font-family: Arial, sans-serif; font-size: 2.6px; }
+  </style>
+
+  <rect class="page" x="0" y="0" width="210" height="297"/>
+
+  <!-- BASE: trim 148 x 128, bleed 154 x 134, panel 70 x 50 -->
+  <g transform="translate(20,20)">
+    <text class="txt" x="0" y="-3">BASE WRAP - 1.0mm board</text>
+    <text class="small" x="0" y="1">Bleed: 154 x 134 mm | Trim: 148 x 128 mm | Board outer panel: 70 x 50 mm</text>
+
+    <rect class="bleed" x="0" y="6" width="154" height="134"/>
+    <rect class="trim" x="3" y="9" width="148" height="128"/>
+    <rect class="fold" x="18" y="24" width="118" height="98"/>
+    <rect class="panel" x="42" y="48" width="70" height="50"/>
+
+    <text class="small" x="43" y="46">Board panel</text>
+  </g>
+
+  <!-- LID: trim 136 x 116, bleed 142 x 122, panel 72 x 52 -->
+  <g transform="translate(20,165)">
+    <text class="txt" x="0" y="-3">LID WRAP - 1.0mm board</text>
+    <text class="small" x="0" y="1">Bleed: 142 x 122 mm | Trim: 136 x 116 mm | Lid top panel: 72 x 52 mm</text>
+
+    <rect class="bleed" x="0" y="6" width="142" height="122"/>
+    <rect class="trim" x="3" y="9" width="136" height="116"/>
+    <rect class="fold" x="18" y="24" width="106" height="86"/>
+    <rect class="panel" x="35" y="41" width="72" height="52"/>
+
+    <text class="small" x="36" y="39">Lid top panel</text>
+  </g>
+
+  <text class="txt" x="20" y="289">Print at 100% scale on A4. Disable fit-to-page.</text>
+  <text class="small" x="20" y="293">Red=bleed cut area, black=trim cut line, blue dashed=fold/turn-in guides, green=centered board panel.</text>
+</svg>
