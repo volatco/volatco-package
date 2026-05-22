@@ -182,7 +182,7 @@ Where:
 
 ### Printer practicality notes (TS3350)
 
-- Print wraps on coated matte inkjet paper in the **120-160 gsm** range for clean color and easier wrapping.
+- Print wraps on coated matte inkjet paper in the **120-170 gsm** range for clean color and easier wrapping (current order: **170 gsm**).
 - Print at **100% scale** (no fit-to-page scaling).
 - These wrap sizes are all well within A4 printable workflows.
 
